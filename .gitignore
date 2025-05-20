@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Variables de entorno
+.env
+
+# Base de datos SQLite
+database.db
+*.sqlite
+*.sqlite3
+
+# Específico del IDE / Editor
+.vscode/
+.idea/
+
+# Específico del sistema operativo
+.DS_Store
+Thumbs.db
