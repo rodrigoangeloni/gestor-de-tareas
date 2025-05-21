@@ -151,5 +151,3 @@ pyinstaller --name GestorTareasRA --onefile --windowed --icon=recursos/ico/app.i
 © 2025 Rodrigo Angeloni. Todos los derechos reservados.
 
 ---
-
-Para soporte o consultas, contacte a: [tu_correo@ejemplo.com] (Reemplaza con tu correo real)
